@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
     child: Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.amberAccent,
-        title: Text("EQUIPMENTS",
+        title: Text("EQUIPMENT",
         style: TextStyle(
           color: Colors.black,
           fontWeight: FontWeight.bold,

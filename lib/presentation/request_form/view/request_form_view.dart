@@ -248,8 +248,9 @@ class RequestForm extends StatelessWidget {
 
 
           Container(
-            margin: EdgeInsets.symmetric(horizontal: 150.0),
+            margin: EdgeInsets.symmetric(horizontal: 100.0),
             height: 40,
+            width: 100,
             child: ElevatedButton(
               onPressed: () async {
                 //Upon clicking the submit button, all validator for each

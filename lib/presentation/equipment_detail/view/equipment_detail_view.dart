@@ -92,8 +92,9 @@ class EquipmentDetailsView extends StatelessWidget {
               Visibility(
                 visible: showButton(equipment.isAvailable),
                 child: Container(
-                  margin: EdgeInsets.symmetric(horizontal: 150.0),
+                  margin: EdgeInsets.symmetric(horizontal: 100.0),
                   height: 40,
+                  width: 100,
                   child: ElevatedButton(
                     onPressed: ()=>Navigator.pushReplacement(context, MaterialPageRoute(
                         builder:(context){
