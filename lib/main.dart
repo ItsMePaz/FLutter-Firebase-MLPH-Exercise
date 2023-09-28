@@ -1,6 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_exercise_paz/pages/home_page.dart';
+import 'package:flutter_exercise_paz/presentation/home_page/view/home_page_view.dart';
 
 
 Future<void> main() async{
