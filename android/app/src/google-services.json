@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1062422205329",
-    "project_id": "mlph-request-an-equipment-app",
-    "storage_bucket": "mlph-request-an-equipment-app.appspot.com"
+    "project_number": "634142188625",
+    "project_id": "equipment-c6e35",
+    "storage_bucket": "equipment-c6e35.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1062422205329:android:ca91109cb7f4bfa04fc030",
+        "mobilesdk_app_id": "1:634142188625:android:4d462fa85127d70d534470",
         "android_client_info": {
           "package_name": "com.example.flutter_exercise_paz"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBblzSFq7H6XwyxzKkxQt3uhWDQWlnalvw"
+          "current_key": "AIzaSyAOKXHG_Ot3ULKRJBLvDZBK7nI3Y3aUK1A"
         }
       ],
       "services": {
